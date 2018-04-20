@@ -1,4 +1,5 @@
 ## tolearning something
 
-  http://kaiyuan.me/2015/07/08/Gossip/
-  https://github.com/CyC2018/Interview-Notebook
+    1.http://kaiyuan.me/2015/07/08/Gossip/
+    2.https://github.com/CyC2018/Interview-Notebook
+    3.http://seanlook.com/2016/10/23/mysql-utf8mb4/
