@@ -18,4 +18,4 @@
 
 但是如下图所示：
 
-！[co-operation](hhttps://github.com/oldtree/todo-plan/blob/master/co.png)
+！[co-operation](https://raw.githubusercontent.com/oldtree/todo-plan/master/co.png)
