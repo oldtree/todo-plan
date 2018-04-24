@@ -19,3 +19,6 @@
 但是如下图所示：
 
 ！[co-operation](https://github.com/oldtree/todo-plan/blob/master/co.png)
+
+
+## 聚焦 && 时间切割拟合注意力以及精力曲线
