@@ -6,3 +6,5 @@
     4.https://www.jiqizhixin.com/articles/2018-04-11-2
     5.https://www.jiqizhixin.com/articles/042002
     6.https://github.com/domac?tab=repositories
+    7.http://colobu.com/
+    8.http://colobu.com/2017/06/27/Lint-your-golang-code-like-a-mad-man/
