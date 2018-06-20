@@ -11,7 +11,7 @@
     9.https://mikespook.com/2014/12/%E7%90%86%E8%A7%A3-go-%E8%AF%AD%E8%A8%80%E7%9A%84%E5%86%85%E5%AD%98%E4%BD%BF%E7%94%A8/
     10.https://zhuanlan.zhihu.com/p/26283463
     11.https://zhuanlan.zhihu.com/p/22230323
+    12：http://www.pingwest.com/demo/everlapse-another-picture-share-app-like-flipbooks-with-collaboration/
     
     
-    go tool pprof --alloc_space http://127.0.0.1:6060/debug/pprof/heap
-    go tool pprof --inuse_space http://127.0.0.1:6060/debug/pprof/heap
+
