@@ -12,6 +12,7 @@
     10.https://zhuanlan.zhihu.com/p/26283463
     11.https://zhuanlan.zhihu.com/p/22230323
     12：http://www.pingwest.com/demo/everlapse-another-picture-share-app-like-flipbooks-with-collaboration/
+    13：https://juejin.im/post/5b2869e66fb9a00e5f3e861f
     
     
 
