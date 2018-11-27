@@ -21,4 +21,5 @@
     １９：http://www.cs.yale.edu/homes/perlis-alan/quotes.html
     20:https://huangz1990.github.io/pgsqlcn/
     21:https://www.infoq.cn/article/IlaSv9_tXCMlNcXgr76s
+    22:https://www.infoq.cn/article/Vc30u0_vclBBBrK2mzxp
 
