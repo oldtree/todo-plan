@@ -20,4 +20,5 @@
     １８：https://book.douban.com/subject/20558651/
     １９：http://www.cs.yale.edu/homes/perlis-alan/quotes.html
     20:https://huangz1990.github.io/pgsqlcn/
+    21:https://www.infoq.cn/article/IlaSv9_tXCMlNcXgr76s
 
