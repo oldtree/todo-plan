@@ -22,4 +22,4 @@
     20:https://huangz1990.github.io/pgsqlcn/
     21:https://www.infoq.cn/article/IlaSv9_tXCMlNcXgr76s
     22:https://www.infoq.cn/article/Vc30u0_vclBBBrK2mzxp
-
+    23:https://www.infoq.cn/article/10M75xAv4K_XWm25SRyp
